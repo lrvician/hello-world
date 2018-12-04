@@ -1,1 +1,4 @@
+name = "Louis Vician"
+greeting = "Hello, world from"
 
+print(greeting, name, ".")
