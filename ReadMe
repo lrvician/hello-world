@@ -1,1 +1,4 @@
+name = "Louis Vician"
+greating = "Hello, World from"
 
+print(greaating, name, ".")
